@@ -1,10 +1,10 @@
 # GANs_Literature
 
-* [GANs Theory: How it works internally - presentation file by Hyosun Choi 12/04/2022](https://1drv.ms/b/s!AhCVuY1b1tq1i7RtRoOl5iHMsA0_nA?e=blTRgm)
+* [GANs Theory: How it works internally - presentation file by Hyosun Choi 12/04/2022](https://defra-my.sharepoint.com/:b:/g/personal/mary_vayou_naturalengland_org_uk/EZi8oJgZnNBMghY-bcL9IL8BsxT2AdCStr6r3TVRgOOPZQ?e=aEV5BL)
 
-* [GANs & Classification for peatlands images presentation file by Hyosun Choi 10/03/2022 @Nobel House](https://1drv.ms/b/s!AhCVuY1b1tq1i7Rsc5fFCd_iu93pCQ?e=Sv9YQF)
+* [GANs & Classification for peatlands images presentation file by Hyosun Choi 10/03/2022 @Nobel House](https://defra-my.sharepoint.com/:b:/g/personal/mary_vayou_naturalengland_org_uk/EbqYR05eyXdHt2dzjJgqiTMBkk2p0iYQRK0-tPChivKA-Q?e=KUipUO)
 
-* [GANs List Summarized ExcelFile by Hyosun Choi](https://1drv.ms/x/s!AhCVuY1b1tq1i606MAUf3gq2IBkmMA?e=nnwQAd)
+* [GANs List Summarized ExcelFile by Hyosun Choi](https://defra-my.sharepoint.com/:x:/g/personal/mary_vayou_naturalengland_org_uk/EfRaIck6yg1CggV1vK5CAr4BQWNpT9XocuPn2epVM8fvhg?e=93jDvB)
 
 ## 01. Traditional GANs : to generate more datasets of peatlands as we have only small datasets.
 We decided to explore this literature first and then see if we can move onto the modern collaborated GANs literature.
