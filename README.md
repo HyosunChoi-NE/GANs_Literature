@@ -23,6 +23,7 @@ adversarial data augmentation (DADA) technique to address the problem, in which 
 multi-level search strategy is introduced to perform NAS in a progressive way. Experiments validate the effectiveness of AutoGAN on the task of unconditional image generation.   
 * **[Highlighted]**[DAGANs: DATA AUGMENTATION GENERATIVE ADVERSARIAL NETWORKS](https://arxiv.org/pdf/1711.04340.pdf) [[code1](https://github.com/AntreasAntoniou/DAGAN)/[code2](https://github.com/Ha0Tang/DAGAN)/[code3](https://github.com/tensorlayer/DAGAN)] Selected reason: variation in generation of Omniglot/ Effective training of neural networks requires much data. In the low-data regime, parameters are underdetermined, and learnt networks generalise poorly. Standard data augmentation produces only limited plausible alternative data. Given there is potential to generate a much broader set of augmentations, we design and train a generative model to do data augmentation. The model, based on image conditional Generative Adversarial Networks, takes data from a source domain and learns to take any data item and generalise it to generate other within-class data items. As this generative process does not depend on the classes themselves, it can be applied to novel unseen classes of data.
 * **[Highlighted]**[MO-DAGAN: Minority Oversampling using Data Augmented GANs] [[code](https://github.com/Olivier-tl/MO-DAGAN)] Selected reason: looking plausible/Class imbalance is a common problem that reduces the performance of classification models. One typical solution is to oversample the minority class. However, classical oversampling techniques such as SMOTE or ADASYN are ill-suited for deep learning approaches since they work in feature space. Recently, Generative Adversarial Networks (GANs) have been successfully used to generate artificial training data to re-balance datasets. Nevertheless, these approaches are data hungry and it remains a challenge to train GANs on the limited data of the minority class. In this work, we plan to leverage recent advances in data-efficient GAN training to advance the state of the art in oversampling approaches. *References: Training Generative Adversarial Networks with Limited Data / EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks*
+* **[Highlighted]**[Generating synthetic multispectral satellite imagery from sentinel-2](https://arxiv.org/pdf/2012.03108.pdf): Hyosun searched the related codes and found them=> [[related code1](https://github.com/akanimax/msg-stylegan-tf)][[related code2](https://github.com/akanimax/BMSG-GAN)]
 
 ### Hyosun 
 01. List from my ppt in Nobel House 10/03/2022 (Updates Done_22/04/2022 from my ppt in Nobel House_10/03/2022)\
@@ -108,6 +109,8 @@ multi-level search strategy is introduced to perform NAS in a progressive way. E
 2.2. [Online-communities](https://github.com/robmarkcole/satellite-image-deep-learning#online-communities) \
 &ensp;&ensp;2.2.1. https://forums.fast.ai/t/geospatial-deep-learning-resources-study-group/31044 \
 &ensp;&ensp;&ensp;&ensp;2.2.1.1. Stanford’s Sustainability & AI Lab (projects on crop yield analysis & poverty prediction): http://sustain.stanford.edu/projects/ \
+&ensp;&ensp;&ensp;&ensp;2.2.1.1.1. [Spatial-Temporal Super-Resolution of Satellite Imagery via Conditional Pixel Synthesis](https://arxiv.org/abs/2106.11485) \
+&ensp;&ensp;&ensp;&ensp;2.2.1.1.2. [Neal Jean, Marshall Burke, MIchael Xie, W. Matt Davis, David Lobell, and Stefano Ermon. 2016. “Combining satellite imagery and machine learning to predict poverty.” Science 353, 6301.](https://arxiv.org/pdf/1510.00098.pdf) \
 &ensp;&ensp;2.2.2.[Kaggle](https://www.kaggle.com/getting-started/131455) \
 2.3. GANs list by Hyosun \
 &ensp;&ensp;2.3.0. [GANs](https://github.com/robmarkcole/satellite-image-deep-learning#gans) \
@@ -147,5 +150,5 @@ to generate other within-class data items. As this generative process does not d
 
 
 ### From the team
-01. [Generating synthetic multispectral satellite imagery from sentinel-2](https://arxiv.org/pdf/2012.03108.pdf)
+01. **[Highlighted]**[Generating synthetic multispectral satellite imagery from sentinel-2](https://arxiv.org/pdf/2012.03108.pdf): Hyosun searched the related codes and found them=> [[related code1](https://github.com/akanimax/msg-stylegan-tf)][[related code2](https://github.com/akanimax/BMSG-GAN)]
 02. [Data augmentation using CycleGANs to improve CT segmentation](https://www.nature.com/articles/s41598-019-52737-x.pdf) 
