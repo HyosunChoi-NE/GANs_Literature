@@ -1,6 +1,6 @@
 # GANs_Literature
 
-* [GANs Theory: How it works internally - presentation file by Hyosun Choi 12/04/2022](https://defra-my.sharepoint.com/:b:/g/personal/mary_vayou_naturalengland_org_uk/EZi8oJgZnNBMghY-bcL9IL8BsxT2AdCStr6r3TVRgOOPZQ?e=aEV5BL)
+* [GANs Theory: How it works internally - presentation file by Hyosun Choi 12/04/2022](https://defra-my.sharepoint.com/:b:/g/personal/mary_vayou_naturalengland_org_uk/EahVxz6RJKVNpkxAB8LdzOkBlrcs2rChNxO-Z-yiiGGRnQ?e=0oQF03)
 
 * [GANs & Classification for peatlands images presentation file by Hyosun Choi 10/03/2022 @Nobel House](https://defra-my.sharepoint.com/:b:/g/personal/mary_vayou_naturalengland_org_uk/EbqYR05eyXdHt2dzjJgqiTMBkk2p0iYQRK0-tPChivKA-Q?e=KUipUO)
 
